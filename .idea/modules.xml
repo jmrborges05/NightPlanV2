@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BNV_With_Viewpager.iml" filepath="$PROJECT_DIR$/BNV_With_Viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BottomNavigation-master.iml" filepath="$PROJECT_DIR$/BottomNavigation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NightPlan/NightPlan.iml" filepath="$PROJECT_DIR$/NightPlan/NightPlan.iml" />
+    </modules>
+  </component>
+</project>
